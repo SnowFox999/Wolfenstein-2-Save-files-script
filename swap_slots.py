@@ -1,7 +1,7 @@
 import os
 import sys
 
-BASE_PATH = r"C:\Users\Jonas\Saved Games\MachineGames\Wolfenstein II The New Colossus\base\savegame.user\76561198317597328"
+BASE_PATH = r"C:\Users\User\Saved Games\MachineGames\Wolfenstein II The New Colossus\base\savegame.user\Folder" #Path to your folder with the saving files
 
 SLOTS = ["SLOT0", "SLOT1", "SLOT2"]
 
