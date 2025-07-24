@@ -29,11 +29,15 @@ Change the BASE_PATH to your path with saved files of the game
 
 > 👉 **Step 2**
 
-Open the terminal. Choose which slot you want to change to the latest. The latest slot could also be the SLOT1, depends on how much games did you open. The availoble range is - SLOT0, SLOT1, SLOT2
+Open the terminal. 
+Choose which slot you want to change to the latest. The latest slot could also be the SLOT1, depends on how much games did you open. The availoble range is - SLOT0, SLOT1, SLOT2
 
 ![screen1](https://github.com/user-attachments/assets/25fb2627-d15f-4438-9b5f-8f706ea3d089)
 
 Example: you want to change your saved game SLOT1 to the playable SLOT2
+
+![screen3](https://github.com/user-attachments/assets/e984a6d5-808e-4c41-a46f-8e847a250c83)
+
 ```bash
 python swap_slots.py SLOT1 SLOT2
 ```
